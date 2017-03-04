@@ -1,0 +1,29 @@
+{
+  "name": "log-reject",
+  "version": "1.0.0",
+  "description": "Log an error and return a rejected Promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrP/log-reject.git"
+  },
+  "keywords": [
+    "log",
+    "error",
+    "promise",
+    "catch",
+    "rethrow"
+  ],
+  "author": "Victor Rodriguez Gil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrP/log-reject/issues"
+  },
+  "homepage": "https://github.com/MrP/log-reject#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
