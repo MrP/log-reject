@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/MrP/log-reject#readme",
   "devDependencies": {
-    "jasmine": "^3.2.0"
+    "jasmine": "^3.4.0"
   }
 }
